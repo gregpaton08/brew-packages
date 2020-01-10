@@ -11,3 +11,7 @@ brew bundle dump -f
 ```
 brew bundle
 ```
+
+## To Do
+
+* Add a cron job to check if packages have been added/removed and trigger a notification.
