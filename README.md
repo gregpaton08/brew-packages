@@ -3,7 +3,7 @@
 ## To Update Brewfile
 
 ```
-brew bundle dump
+brew bundle dump -f
 ```
 
 ## To Install From Brewfile
